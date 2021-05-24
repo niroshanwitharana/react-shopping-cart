@@ -1,0 +1,268 @@
+{
+  "productData": [
+    {
+      "id": 1,
+      "name": "Item-01",
+      "cat": "mens",
+      "price": 19.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 2,
+      "name": "Item-02",
+      "cat": "womens",
+      "price": 14.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 3,
+      "name": "Item-03",
+      "cat": "womens",
+      "price": 8.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 4,
+      "name": "Item-04",
+      "cat": "kids",
+      "price": 6.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 5,
+      "name": "Item-05",
+      "cat": "womens",
+      "price": 8.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 6,
+      "name": "Item-06",
+      "cat": "mens",
+      "price": 12.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 7,
+      "name": "Item-07",
+      "cat": "mens",
+      "price": 11.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 8,
+      "name": "Item-08",
+      "cat": "womens",
+      "price": 13.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 9,
+      "name": "Item-09",
+      "cat": "womens",
+      "price": 7.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 10,
+      "name": "Item-10",
+      "cat": "kids",
+      "price": 3.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 11,
+      "name": "Item-11",
+      "cat": "womens",
+      "price": 14.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 12,
+      "name": "Item-12",
+      "cat": "mens",
+      "price": 17.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 13,
+      "name": "Item-13",
+      "cat": "mens",
+      "price": 10.49,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 14,
+      "name": "Item-14",
+      "cat": "womens",
+      "price": 12.59,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 15,
+      "name": "Item-15",
+      "cat": "womens",
+      "price": 9.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 16,
+      "name": "Item-16",
+      "cat": "kids",
+      "price": 8.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 17,
+      "name": "Item-17",
+      "cat": "womens",
+      "price": 14.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 18,
+      "name": "Item-18",
+      "cat": "mens",
+      "price": 10.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 19,
+      "name": "Item-19",
+      "cat": "mens",
+      "price": 5.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 20,
+      "name": "Item-20",
+      "cat": "womens",
+      "price": 13.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 21,
+      "name": "Item-21",
+      "cat": "womens",
+      "price": 7.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 22,
+      "name": "Item-22",
+      "cat": "kids",
+      "price": 12.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 23,
+      "name": "Item-23",
+      "cat": "womens",
+      "price": 14.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 24,
+      "name": "Item-24",
+      "cat": "mens",
+      "price": 16.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 25,
+      "name": "Item-25",
+      "cat": "accessories",
+      "price": 9.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    },
+    {
+      "id": 26,
+      "name": "Item-26",
+      "cat": "accessories",
+      "price": 4.99,
+      "count": 0,
+      "counterVal": 1,
+      "inCart": false
+    }
+  ],
+  "cart": [
+    {
+      "itemID": 1,
+      "itemName": "Item-01",
+      "itemPrice": 19.99,
+      "counterVal": 1,
+      "id": 1
+    },
+    {
+      "itemID": 2,
+      "itemName": "Item-02",
+      "itemPrice": 14.99,
+      "counterVal": 1,
+      "id": 2
+    },
+    {
+      "itemID": 3,
+      "itemName": "Item-03",
+      "itemPrice": 8.99,
+      "counterVal": 1,
+      "id": 3
+    },
+    {
+      "itemID": 4,
+      "itemName": "Item-04",
+      "itemPrice": 6.99,
+      "counterVal": 1,
+      "id": 4
+    }
+  ]
+}

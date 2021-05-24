@@ -11,3 +11,73 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* Navbar style */
+svg {
+  font-size: xx-large;
+}
+
+.bg-dark {
+  background-color: #343a40!important;
+}
+
+/* UseData page styling  */
+.item{
+  margin: 10px;
+  display: inline-flex;
+}
+
+.MuiCardActions-root {
+display: block !important;
+}
+
+.favouriteIcon{
+  float: left;
+}
+
+.shareIcon{
+  float: right;
+}
+
+.shoppingItems{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: -webkit-center;
+}
+
+.shoppingItems> h1{
+  text-align: center;
+  color: tomato;
+}
+
+/* checkout page */
+.address {
+  width: 30%;
+  border: 0.5px solid gray;
+  padding: 20px;
+  border-radius: 10px;
+  float: left;
+}
+.checkout{
+  margin: 15px;
+  display: block;
+}
+
+.checkout> h1{
+  text-align: center;
+  color: tomato;
+}
+
+.productInfo{
+  display: grid;
+  float: right;
+  width: 50%;
+}
+
+.itemInfoTitle{
+  display: inline-flex;
+}
+
+.itemValue{
+  display: inline-flex;
+}
