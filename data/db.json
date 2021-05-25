@@ -236,6 +236,26 @@
     }
   ],
   "cart": [
-    
+    {
+      "itemID": 6,
+      "itemName": "Item-06",
+      "itemPrice": 12.99,
+      "counterVal": 1,
+      "id": 1
+    },
+    {
+      "itemID": 5,
+      "itemName": "Item-05",
+      "itemPrice": 8.99,
+      "counterVal": 1,
+      "id": 2
+    },
+    {
+      "itemID": 4,
+      "itemName": "Item-04",
+      "itemPrice": 6.99,
+      "counterVal": 1,
+      "id": 3
+    }
   ]
 }
